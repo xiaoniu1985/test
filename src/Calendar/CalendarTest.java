@@ -12,5 +12,6 @@ public class CalendarTest {
 		     cal.set(2017, 5, 1);
 	         cal.add(Calendar.DATE, -1);
 		     System.out.println(cal.get(Calendar.DATE));
+		     System.out.println(cal.get(Calendar.DATE));
 	 }
 }
